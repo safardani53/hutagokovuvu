@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hutagokovuvu.pages.dev/sitemap.xml
